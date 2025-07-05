@@ -115,7 +115,7 @@ CREATE TABLE IF NOT EXISTS ExpenseTracker (
 
 ## 🙋‍♀️ Author
 
-**Pratiksha Singh**  
+**Created with ❤️ by Pratiksha Singh**  
 💼 Developer & Designer  
 🔗 [LinkedIn](www.linkedin.com/in/pratiksha-singh-8b24a0221)  
 🌐 [GitHub](https://github.com/singh-pratiksha/)
