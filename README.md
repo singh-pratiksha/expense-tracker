@@ -23,8 +23,6 @@ A beautifully designed, beginner-friendly **desktop expense tracker** built usin
 
 > *Insert screenshot here if available, or ignore this section until added.* -->
 
----
-
 ## 🛠 Installation
 
 ### 1. Clone the Repository
