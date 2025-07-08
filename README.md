@@ -103,6 +103,22 @@ CREATE TABLE IF NOT EXISTS ExpenseTracker (
 
 ---
 
+## 📸 Project Screenshots
+![Screenshot 2025-07-06 195603](https://github.com/user-attachments/assets/97a281f4-5690-43cf-832e-51c59c0b97a9)
+![Screenshot 2025-07-08 190504](https://github.com/user-attachments/assets/fc7bce98-ffd3-4cea-83b3-f2e2ab583b80)
+![Screenshot 2025-07-08 191323](https://github.com/user-attachments/assets/b111f8bd-9097-42b7-b097-6c0e0ffb303f)
+![Screenshot 2025-07-08 191606](https://github.com/user-attachments/assets/964a15a3-0c33-4aec-81d2-0369ea63d3c4)
+![Screenshot 2025-07-08 191653](https://github.com/user-attachments/assets/5d02864b-598c-4a7d-83c5-156037826a7f)
+![Screenshot 2025-07-08 191712](https://github.com/user-attachments/assets/08006276-3a66-4579-8bb1-a7652fd83b1b)
+![Screenshot 2025-07-08 191730](https://github.com/user-attachments/assets/c1719c4e-0833-464d-8bc9-7847e2ac88c0)
+
+
+
+
+
+
+
+---
 ## ✨ Future Enhancements
 
 - 📊 Graphical analytics (bar/pie charts)
